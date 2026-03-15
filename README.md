@@ -55,6 +55,8 @@ Expected columns:
 - clicks 
 - unsubscribed
 
+Note: The data in the /data folder is synthetic demo data created for demonstration purposes only.
+
 ## Installation
 ```text
 pip install -r requirements.txt
