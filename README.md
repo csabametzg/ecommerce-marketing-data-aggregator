@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ### Best campaign
 
 -------------
-- 1. Sales Email - Python Start 2025.06.11 - VIP
+- 1 . Sales Email - Python Start 2025.06.11 - VIP
 - Open rate: 91.51%
 - Click rate: 57.55%
 - Emails sent: 106
@@ -104,7 +104,7 @@ pip install -r requirements.txt
 - 1 . Sales Email - Python Start 2025.06.11 - VIP -> 91.51% open rate
 - Copy of Már 83 VIP előjelentkező + Video -> 82.80% open rate
 - VIP értesítés 2025-06-05 -> 78.30% open rate
-- 2. Sales Email - Python Start 2025.06.13 - VIP -> 73.74% open rate
+- 2 . Sales Email - Python Start 2025.06.13 - VIP -> 73.74% open rate
 - Python Start Videovisszajelzés kérése - 2025.12.01. -> 72.92% open rate
 
 ### Top performing campaigns by click rate
