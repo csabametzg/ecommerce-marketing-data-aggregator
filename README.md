@@ -130,3 +130,14 @@ It is useful for:
 - marketing performance tracking 
 - business data aggregation 
 - automation portfolio projects
+
+
+## E-commerce Marketing Data Aggregator Screenshot 1
+![Ecommerce Marketing Data Aggregator](images/ecommerce-marketing-data-aggregator-screenshot_1.png)
+
+## E-commerce Marketing Data Aggregator Screenshot 2
+![Ecommerce Marketing Data Aggregator](images/ecommerce-marketing-data-aggregator-screenshot_2.png)
+
+## E-commerce Marketing Data Aggregator Screenshot 3
+![Ecommerce Marketing Data Aggregator](images/ecommerce-marketing-data-aggregator-screenshot_3.png)
+
