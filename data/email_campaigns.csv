@@ -1,1 +1,80 @@
-
+﻿campaign_date,campaign_name,emails_sent,opens,clicks,unsubscribed
+2026-03-14,Nyílt hét 2026.03.14 - #6. E-mail,5424,914,14,7
+2026-03-13,Nyílt hét 2026.03.13 - #5. E-mail,5413,1327,50,6
+2026-03-12,Nyílt hét 2026.03.12 - #4. E-mail,5408,1179,43,7
+2026-03-11,Nyílt hét 2026.03.11 - #3. E-mail,5411,1299,81,12
+2026-03-11,Was not opened Nyílt hét 2026.03.10 – #2 email,4263,402,39,4
+2026-03-10,Nyílt hét 2026.03.10 - #2. E-mail,5421,1347,67,16
+2026-03-10,Was not opened Nyílt hét 2026.03.09 – #1 email,3872,438,38,3
+2026-03-09,Nyílt hét 2026.03.09 - #1. E-mail,5431,1783,197,21
+2026-03-08,Nyílt hét 2026.03.08 - #0. E-mail,5442,1931,129,19
+2025-12-24,XMAS-2025-12-24 kampány - DÉLUTÁN - Email #18,4587,757,20,13
+2025-12-24,XMAS-2025-12-24 kampány - ESTE - Email #19,5318,1589,48,297
+2025-12-24,XMAS-2025-12-24 kampány - PYTHON START- ESTE 19.30 - Email #2,107,62,15,1
+2025-12-24,XMAS-2025-12-24 kampány - PYTHON START- ESTE 22.00 - Email #3,106,51,7,0
+2025-12-24,XMAS-2025-12-24 kampány - PYTHON START- REGGEL - Email #1,107,66,18,0
+2025-12-24,XMAS-2025-12-24 kampány - REGGEL - Email #17,5356,1312,52,23
+2025-12-23,XMAS-2025-12-23 kampány - ESTE - Email #16,5353,1337,43,13
+2025-12-23,XMAS-2025-12-23 kampány - Email #15,5376,1372,26,22
+2025-12-22,XMAS-2025-12-22 kampány - Email #13,5421,1413,27,19
+2025-12-22,XMAS-2025-12-22 kampány - Email #14,5399,1381,16,21
+2025-12-21,XMAS-2025-12-21 kampány - Email #12,5442,1478,22,19
+2025-12-20,XMAS-2025-12-20 kampány - Email #10 - NEM NYITOTTÁK MEG,4485,600,14,12
+2025-12-20,XMAS-2025-12-20 kampány - Email #11 - MINDENKI,5489,1500,85,25
+2025-12-19,XMAS-2025-12-19 kampány - Email #10,5479,1435,35,19
+2025-12-18,XMAS-2025-12-18 kampány - Email #9,5474,1431,34,18
+2025-12-17,XMAS-2025-12-17 kampány - Email #8,5450,1511,38,13
+2025-12-16,XMAS-2025-12-16 kampány - Email #7,5462,1557,56,28
+2025-12-15,XMAS-2025-12-15 kampány - Email #6,5454,1568,54,19
+2025-12-14,XMAS-2025-12-14 kampány - Email #4 - RESEND - FOR WAS NOT OPENED,4275,633,30,13
+2025-12-14,XMAS-2025-12-14 kampány - Email #5,5460,1634,104,25
+2025-12-13,XMAS-2025-12-13 kampány - Email #4,5437,1563,53,23
+2025-12-12,XMAS-2025-12-12 kampány - Email #3,5443,1622,34,28
+2025-12-11,XMAS-2025-12-11 kampány - Email #2,5429,1654,53,21
+2025-12-10,XMAS-2025-12-10 kampány - Email #1,5419,1896,63,28
+2025-12-05,Python Start Videovisszajelzés kérése - 2025.12.05.,97,46,2,0
+2025-12-03,Python Start Videovisszajelzés kérése - 2025.12.03.,96,58,4,0
+2025-12-01,Python Start Videovisszajelzés kérése - 2025.12.01.,96,70,6,0
+2025-08-31,Copy of Nyárzáró akció - Python Start 2025.08.31 - 4. levél,3020,1088,21,31
+2025-08-31,Nyárzáró akció - Python Start 2025.08.31 - 4. levél,3021,855,25,10
+2025-08-30,Nyárzáró akció - Python Start 2025.08.30 - 3. levél,3006,860,12,13
+2025-08-29,Nyárzáró akció - Python Start 2025.08.28 - 2. levél,3011,848,18,21
+2025-08-28,Nyárzáró akció - Python Start 2025.08.28 - 1. levél,3051,886,20,12
+2025-08-02,Visszahoztam a régi árakat - 2025.08.02,2433,743,23,20
+2025-07-31,Összegző Munkafüzet - 6. email - 2025.07.31 - 4/1,2427,652,20,8
+2025-07-31,Összegző Munkafüzet - 7. email - 2025.07.31 - végső 4/2,2435,608,19,7
+2025-07-31,Összegző Munkafüzet - 7. email - 2025.07.31 - végső 4/3,2430,597,18,13
+2025-07-31,Összegző Munkafüzet - 7. email - 2025.07.31 - végső 4/4,2418,636,10,8
+2025-07-30,Összegző Munkafüzet - 5. email - 2025.07.30,2407,665,30,8
+2025-07-29,Összegző Munkafüzet - 4. email - 2025.07.29,2410,841,28,18
+2025-07-28,Python Összegző Munkafüzet - 3. email - 2025.07.28 - ver_2,2423,789,81,6
+2025-07-27,Python Összegző Munkafüzet - 3. email - 2025.07.28,2416,711,60,9
+2025-07-25,Python Összegző Munkafüzet - 2. email - 2025.07.25,2366,814,35,9
+2025-07-23,Python Összegző Munkafüzet - 1. email - 2025.07.23,2333,906,167,9
+2025-06-27,8. Sales Email - Python Start 2025.06.27 - NEM VIP,1399,370,14,12
+2025-06-27,8. Sales Email - Python Start 2025.06.27 - VIP,85,51,2,4
+2025-06-25,7. Sales Email - Python Start 2025.06.25 - NEM VIP,1411,528,37,10
+2025-06-25,7. Sales Email - Python Start 2025.06.25 - VIP,89,62,21,2
+2025-06-23,6. Sales Email - Python Start 2025.06.23 - NEM VIP,1421,374,15,9
+2025-06-23,6. Sales Email - Python Start 2025.06.23 - VIP,92,46,7,0
+2025-06-20,5. Sales Email - Python Start 2025.06.20 - NEM VIP,1429,360,9,7
+2025-06-20,5. Sales Email - Python Start 2025.06.20 - VIP,93,47,4,0
+2025-06-18,4. Sales Email - Python Start 2025.06.18 - NEM VIP,1439,396,31,10
+2025-06-18,4. Sales Email - Python Start 2025.06.18 - VIP,97,64,16,0
+2025-06-16,3. Sales Email - Python Start 2025.06.16 - NEM VIP,1444,390,10,3
+2025-06-16,3. Sales Email - Python Start 2025.06.16 - VIP,98,61,5,1
+2025-06-13,2. Sales Email - Python Start 2025.06.13 - NEM VIP,1447,407,30,2
+2025-06-13,2. Sales Email - Python Start 2025.06.13 - VIP,99,73,14,1
+2025-06-11,1. Sales Email - Python Start 2025.06.11 - NEM VIP,1464,705,136,13
+2025-06-11,1. Sales Email - Python Start 2025.06.11 - VIP,106,97,61,0
+2025-06-05,VIP értesítés 2025-06-05,106,83,13,0
+2025-05-30,VIP Promo 2025.05.30,1490,412,30,17
+2025-05-28,Copy of Már 83 VIP előjelentkező + Video,93,77,20,1
+2025-05-28,Már 83 VIP előjelentkező + Video,1507,455,35,12
+2025-01-29,Python Turtle teknősverseny 2025.01.29,1646,684,56,6
+2025-01-28,Design 1 poszt kihüldése 2025_01_28,1656,782,85,14
+2024-11-13,Auto resend of Árkalkuláció kampány - 4. levél,560,146,10,9
+2024-11-12,Árkalkuláció kampány - 4. levél,582,144,12,7
+2024-11-11,Árkalkuláció kampány - 3. levél,937,447,60,12
+2024-11-08,Árkalkuláció kampány - 2. levél,911,467,91,16
+2024-11-07,Árkalkuláció kampány - 1. levél,918,530,116,13
