@@ -101,7 +101,7 @@ pip install -r requirements.txt
 
 -------------------------------------
 
-- 1. Sales Email - Python Start 2025.06.11 - VIP -> 91.51% open rate
+- 1 . Sales Email - Python Start 2025.06.11 - VIP -> 91.51% open rate
 - Copy of Már 83 VIP előjelentkező + Video -> 82.80% open rate
 - VIP értesítés 2025-06-05 -> 78.30% open rate
 - 2. Sales Email - Python Start 2025.06.13 - VIP -> 73.74% open rate
@@ -111,12 +111,12 @@ pip install -r requirements.txt
 
 --------------------------------------
 
-- 1. Sales Email - Python Start 2025.06.11 - VIP -> 57.55% click rate
+- 1 . Sales Email - Python Start 2025.06.11 - VIP -> 57.55% click rate
 
-- 7. Sales Email - Python Start 2025.06.25 - VIP -> 23.60% click rate
+- 7 . Sales Email - Python Start 2025.06.25 - VIP -> 23.60% click rate
 - Copy of Már 83 VIP előjelentkező + Video -> 21.51% click rate
 - XMAS-2025-12-24 kampány - PYTHON START- REGGEL - Email #1 -> 16.82% click rate
-- 4. Sales Email - Python Start 2025.06.18 - VIP -> 16.49% click rate
+- 4 . Sales Email - Python Start 2025.06.18 - VIP -> 16.49% click rate
 
 
 
