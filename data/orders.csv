@@ -1,536 +1,536 @@
 order_id,order_date,customer_name,product_name,quantity,total_amount,status
-15343,"2026-03-14 14:08","Ágnes Tálos","Python Start Tréning - Prémium csomag",1,29900,Teljesítve
-15341,"2026-03-13 17:36","Kft. Nagy és Társa Épületvillamossági","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-15327,"2026-03-13 14:41","Gergely Rékasi","Python Start Tréning - Prémium csomag",1,29900,Teljesítve
-15325,"2026-03-13 13:26","Gyula Listár","Python Start Tréning - Prémium csomag",1,29900,Teljesítve
-15321,"2026-03-12 09:55","Tamás Dömötör","Python Start Tréning - Prémium csomag",1,29900,Teljesítve
-15300,"2026-03-08 22:43","Gabor Raksanyi","Python Start Tréning - Prémium csomag",1,29900,Teljesítve
-14997,"2026-02-12 10:33","Szilvia Kovácsné Tóth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-14985,"2026-02-10 08:13","Nicolett Szabo","Python Start Tréning - Prémium csomag",1,29900,Teljesítve
-14915,"2026-02-06 21:30","Roland Sárosi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-14868,"2026-02-06 11:19","Péter Szárnya","Python Start Tréning",1,24900,Teljesítve
-14856,"2026-02-05 19:28","Zsófia Pergerné Dr. Tóth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-13381,"2026-01-10 11:39","Melinda Pónya","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-13254,"2026-01-08 07:36","Csaba Pais","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-13062,"2026-01-05 09:11","Zoltán Szeles","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-13002,"2026-01-04 22:53","Fodor Imre","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12995,"2026-01-04 22:15","László Piri","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12789,"2025-12-31 17:43","Zsolt Kovács","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-12787,"2025-12-30 09:44","Attila Kővágó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12783,"2025-12-29 09:10","Zoltán Fehér","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12781,"2025-12-28 20:31","Alexandra Gyetvai","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12780,"2025-12-28 19:19","István Blaskó","Python Start Tréning",1,19900,Teljesítve
-12779,"2025-12-28 14:53","SZILVIA VÁCI","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12772,"2025-12-27 19:29","Imre Kócsi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12771,"2025-12-27 14:52","Norbert Nagy","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12769,"2025-12-26 12:11","Ferenc Takács","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12768,"2025-12-26 10:39","György Gáspár","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12767,"2025-12-25 17:44","Béla Mozsdényi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12762,"2025-12-25 12:23","Pankucsi Szilárd","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12761,"2025-12-25 11:59","Gábor Gőbölös","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12756,"2025-12-25 07:55","Gazdig Ágnes","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12755,"2025-12-25 07:38","László László","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12754,"2025-12-25 05:01","Júlia Bocskay","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12753,"2025-12-25 02:00","Nikosz M.","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12750,"2025-12-25 00:01","Balázs Bozzay","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12747,"2025-12-24 23:51","Rita Sohajda","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12746,"2025-12-24 23:49","Zsombor Balog","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12744,"2025-12-24 23:25","Gábor Tóth","Python Start Tréning - Prémium csomag",2,39800,Teljesítve
-12743,"2025-12-24 23:19","Gábor Molnár","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12741,"2025-12-24 22:52","Norbert Spolmin","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12740,"2025-12-24 22:35","József Kardos","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12739,"2025-12-24 22:33","Gábor Czirják","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12738,"2025-12-24 22:19","Márta Angyalné Dr. Alexy","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12737,"2025-12-24 22:18","János SZEITZ","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12736,"2025-12-24 21:59","Zita Szakàcs","Python Start Tréning - Prémium csomag",1,19900,"Fizetés folyamatban"
-12728,"2025-12-24 21:23","Szilvia Bán-Andrási","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12727,"2025-12-24 21:14","Máté Schafer","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12726,"2025-12-24 21:09","Tamas Sulyok","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12725,"2025-12-24 21:04","Sándor Török","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12723,"2025-12-24 20:36","Zita Szakàcs","Python Start Tréning - Prémium csomag",1,19900,"Fizetés folyamatban"
-12722,"2025-12-24 20:30","István Bazsó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12721,"2025-12-24 20:27","Boglárka Grion","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12720,"2025-12-24 20:22","Enikő Horváth","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12719,"2025-12-24 20:08","Jozsef Juhasz","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12718,"2025-12-24 20:02","Krisztián Albert","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12714,"2025-12-24 19:30","Vastag Norbert","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12713,"2025-12-24 19:29","László Baranyi","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12712,"2025-12-24 19:29","Balázs Tóth","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12711,"2025-12-24 19:12","Andrea Tajti","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12710,"2025-12-24 19:01","Zsolt Fazekas","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12708,"2025-12-24 18:17","István Sárközi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12707,"2025-12-24 18:06","Béla Nagy","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12703,"2025-12-24 15:35","Judit Stéber","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12702,"2025-12-24 15:14","Zoltán Ragályi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12701,"2025-12-24 13:50","Bereczki Karoly","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12699,"2025-12-24 12:38","Rita Nagy","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12698,"2025-12-24 11:55","Szabolcs Hódi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12697,"2025-12-24 11:34","Attila Molnár","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12696,"2025-12-24 11:15","György Tömő","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12695,"2025-12-24 10:40","Gábor Virág","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12693,"2025-12-24 09:34","János Tolnai","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12692,"2025-12-24 09:25","Gabor Raksanyi","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12691,"2025-12-24 09:04","Antal Rókus Vigh","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12690,"2025-12-24 09:02","Tibor Jároli","ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv)",1,4990,Teljesítve
-12689,"2025-12-24 08:57","Norbert Kunszt","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12687,"2025-12-24 07:59","Viktória Somogyi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12686,"2025-12-24 06:46","Enikő Havasyné Selmeczi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12683,"2025-12-24 03:06","Tímea Aina Schweiczer","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12680,"2025-12-24 01:24","Tibor Szénási","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12679,"2025-12-24 00:59","László Fentős","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12678,"2025-12-24 00:42","Petra Pataki","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12677,"2025-12-24 00:09","Ferenc Vranek","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12674,"2025-12-23 22:16","Ákos Dr. Szabó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12673,"2025-12-23 22:14","Marcell Zsibók","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12672,"2025-12-23 20:19","ZOLTÁN BARKA","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12671,"2025-12-23 19:55","Béla Székely","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12670,"2025-12-23 18:57","Dezső Gyarmati","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12669,"2025-12-23 17:34","Csaba Szalai","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12668,"2025-12-23 15:36","Gábor Erőss","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12666,"2025-12-23 12:41","Tamás Szabó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12664,"2025-12-23 11:58","Erika Veressné Horváth","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12662,"2025-12-23 10:39","Peter Herczeg","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12660,"2025-12-23 10:02","Krisztián Verdes","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12659,"2025-12-23 08:24","ATTILA ÁRPÁD VARGA","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12658,"2025-12-23 07:46","Tamás Fürdős","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12656,"2025-12-23 07:08","István Árvai","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12654,"2025-12-22 23:03","Ildikó Csiki","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12653,"2025-12-22 22:49","Tibor Juhász","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12652,"2025-12-22 18:33","Sándor Fábián","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12650,"2025-12-22 16:27","Mariann Hennel","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12648,"2025-12-22 14:18","Márk Szijártó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12647,"2025-12-22 12:27","Zoltán Jákli","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12645,"2025-12-22 11:54","Gábor Kuliga","Python Start Tréning - Prémium csomag",1,19900,"Fizetés folyamatban"
-12644,"2025-12-22 07:23","Róbert Szabó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12642,"2025-12-22 05:39","Róbert Borsi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12627,"2025-12-21 16:45","Csaba Dudás","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12626,"2025-12-21 16:25","Tibor Nagy","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12624,"2025-12-21 13:49","Terézia Kovácsné Droppa","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12622,"2025-12-21 09:40","Mihály flaskay","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12620,"2025-12-20 18:09","Balázs Vasics","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12619,"2025-12-20 15:36","Terézia Boskó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12618,"2025-12-20 15:25","György Kiss","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12616,"2025-12-20 13:51","József Medgyesi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12615,"2025-12-20 12:30","Szilvia Bogyayné Szabó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12614,"2025-12-20 06:29","Tamás Tinusz","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12611,"2025-12-19 16:16","Gusztáv Gábor","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12608,"2025-12-19 10:31","Zsolt Lippai","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12606,"2025-12-19 10:02","Izabella Détári-Szabó","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12604,"2025-12-18 19:44","Patrik Czeizler","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12603,"2025-12-18 18:36","Zoltán Tenkes","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12601,"2025-12-18 15:51","Péter Juhász","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12598,"2025-12-18 13:41","Péter Tóth","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12597,"2025-12-18 13:39","Kovács Zsolt","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12596,"2025-12-18 10:52","Anna Geösel","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12594,"2025-12-18 10:07","Kornélia dr Szallerné dr Lukács","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12593,"2025-12-17 18:50","György Tóth","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12591,"2025-12-17 12:08","István Kunetz","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-12582,"2025-12-15 20:16","Krisztián Vágvölgyi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12580,"2025-12-15 17:34","Fancsali Alpár","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12579,"2025-12-15 17:09","Anikó Tóbiás","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12578,"2025-12-15 16:54","Gergő Tóth","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12575,"2025-12-15 09:51","Ákos Grimon","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12566,"2025-12-14 20:54","Zoltán Odor","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-12564,"2025-12-14 19:57","Tibor Veres","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12563,"2025-12-14 19:35","Alexander Bognár","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12562,"2025-12-14 19:18","Béla Crisztescu","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12560,"2025-12-14 14:53","Beata Schmierer","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12559,"2025-12-14 10:02","László Tamás","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12558,"2025-12-14 09:18","Réka Brányik Csomor","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-12556,"2025-12-13 21:07","Lajos Szemán","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12552,"2025-12-13 15:28","Attila Dancs","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12551,"2025-12-13 13:28","Róbert Orbán","Python Start Tréning - Prémium csomag",1,17910,Teljesítve
-12549,"2025-12-13 11:45","Ottó Sarnyai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-12548,"2025-12-13 11:01","Gábor Platt","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12547,"2025-12-12 22:11","Norbert Kiss","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12545,"2025-12-12 10:45","József Török","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12544,"2025-12-12 09:53","Gábor Halmosi","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12542,"2025-12-11 23:10","Dora Vas","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-12541,"2025-12-11 22:21","András Kovács","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12540,"2025-12-11 17:23","Sandor Dr. Bajtai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-12537,"2025-12-11 13:44","Márton Kiss","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12497,"2025-12-11 12:26","ATTILA ÁRPÁD VARGA","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-12477,"2025-12-11 10:58","Zsolt Németh","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12476,"2025-12-11 06:30","Norbert Liszek","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12475,"2025-12-11 06:03","Tamás Arany","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12474,"2025-12-10 14:06","Zoltán Tót","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12472,"2025-12-10 11:46","Tamás Jónás","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12470,"2025-12-10 10:49","Péter Baló","Python Start Tréning - Prémium csomag",1,19900,Teljesítve
-12420,"2025-12-09 21:07","Csaba Mészáros","Python Start Tréning - Prémium csomag",1,300,Teljesítve
-12239,"2025-12-05 11:33","Róbert Balog","Python Alapok - Összegző Munkafüzet",1,22390,Teljesítve
-12239,"2025-12-05 11:33","Róbert Balog","Python Start Tréning",1,22390,Teljesítve
-12134,"2025-12-02 17:02","György Gáspár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11935,"2025-11-28 06:47","István Hegyi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11837,"2025-11-27 20:53","Szilvia Farkas","Python Start Tréning",1,19900,Teljesítve
-11685,"2025-11-26 20:36","István Barth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11600,"2025-11-26 10:37","Violetta Györei","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11442,"2025-11-22 11:50","Attila Nagy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11441,"2025-11-21 19:39","Zoltán Tenkes","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-11440,"2025-11-20 15:01","István Krizbai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11439,"2025-11-20 12:18","Szabolcs Scheibelhoffer","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11436,"2025-11-18 20:32","Dávid Papp","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-11307,"2025-11-15 16:05","Zita Becsei","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11306,"2025-11-15 13:46","József Tamás Dr. Dóczi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11305,"2025-11-14 14:37","András Román","Python Start Tréning",1,19900,Teljesítve
-11302,"2025-11-13 18:56","Albertné Lakatos","Python Start Tréning",1,19900,Teljesítve
-11207,"2025-11-12 11:03","Sándor Szita","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11206,"2025-11-12 10:37","Zsolt Fejes","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11182,"2025-11-10 20:21","PÉTER KMETTY","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11181,"2025-11-10 17:32","David Gagyor","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11131,"2025-11-08 12:15","Károly Horváth","Python Start Tréning",1,19900,Teljesítve
-11130,"2025-11-07 18:35","Krisztián Fazekas","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-11129,"2025-11-07 13:39","Gábor Boráros","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-11128,"2025-11-07 10:49","Ádám Tarapcsik","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-11127,"2025-11-06 11:51","Orsolya Glavanovics","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11126,"2025-11-06 09:17","György Battyányi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11104,"2025-11-05 21:59","Adrián Eredics","Python Start Tréning",1,19900,Teljesítve
-11103,"2025-11-05 20:10","Antal Toronyai","Python Start Tréning",1,19900,Teljesítve
-11098,"2025-11-05 08:49","Zoltán Szabó","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-11035,"2025-11-04 11:06","Róbert Orbán","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10972,"2025-11-03 22:15","István Ander","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10934,"2025-11-03 10:26","László Horváth","Python Start Tréning",1,19900,Teljesítve
-10933,"2025-11-03 10:21","Nóra Tiszai","Python Start Tréning",1,19900,Teljesítve
-10930,"2025-10-31 16:07","Anna Eszter Druskóczi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10909,"2025-10-31 08:42","Tamás Török","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10825,"2025-10-30 11:39","Kálmán Korcz","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-10824,"2025-10-30 10:55","Lovas Ákos","Python Start Tréning",1,19900,Teljesítve
-10777,"2025-10-29 13:48","Péter Baló","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10745,"2025-10-28 14:34","Sandor Dr. Bajtai","Python Start Tréning",1,19900,Teljesítve
-10721,"2025-10-27 08:07","Anita Sipos","Python Start Tréning",1,19900,Teljesítve
-10720,"2025-10-27 07:14","Adrián Eredics","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10713,"2025-10-25 19:10","Zsolt Dorogi-Bodnár","Python Start Tréning",1,19900,Teljesítve
-10711,"2025-10-24 10:12","Zoltán Nagy","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-10710,"2025-10-24 09:57","Csaba Locsey","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-10696,"2025-10-22 23:02","lászló vezeti","Python Start Tréning",1,19900,Teljesítve
-10695,"2025-10-22 10:15","Andrea Gábrielné Sebő","Python Start Tréning",1,19900,Teljesítve
-10693,"2025-10-22 09:44","Róbert Rácz","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10683,"2025-10-21 13:38","Nóra Tiszai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10679,"2025-10-21 09:21","Ferenc Révész","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10678,"2025-10-21 07:59","Dóra Balmaz","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10651,"2025-10-20 17:27","Géza Hazai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10630,"2025-10-20 15:36","Tímea Mészáros","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10629,"2025-10-20 14:29","István Blaskó","Python Start Tréning",1,19900,Teljesítve
-10615,"2025-10-20 10:36","Zsolt Kunsági","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10614,"2025-10-20 09:58","Péter Tibor Czakó","Python Start Tréning",1,19900,Teljesítve
-10613,"2025-10-20 09:19","Bajtai Sandor","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10404,"2025-10-18 10:12","Marianna Tariné Dudás","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10288,"2025-10-17 11:05","Andrea Letenovicsné Polyák","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10287,"2025-10-16 10:34","András Morvai","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-10286,"2025-10-15 21:04","Zsolt Dorogi-Bodnár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10282,"2025-10-14 22:14","Lívia Kurtosné Bajtel","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10281,"2025-10-14 12:41","Bence Czira","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10280,"2025-10-14 11:22","Kornél Thuri","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10279,"2025-10-13 13:59","László Horváth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10278,"2025-10-13 11:23","Szilvia Bajza","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10277,"2025-10-12 08:33","László Czeglédi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10276,"2025-10-10 16:15","Anita Sipos","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10275,"2025-10-10 14:53","Judit Stéber","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10274,"2025-10-10 13:15","György Móker","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-10188,"2025-10-09 10:58","lászló vezeti","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-10186,"2025-10-08 14:52","Gergely Botond Susztek-Eötvös","Python Start Tréning",1,19900,Teljesítve
-10185,"2025-10-08 11:11","Péter Laskói","Python Start Tréning",1,19900,Teljesítve
-10184,"2025-10-08 10:43","Horváth Ferenc","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10183,"2025-10-08 07:17","Pinczés János","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-10107,"2025-10-06 19:00","Levente Zsombor Kari","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10088,"2025-10-06 12:43","László Herdon","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10087,"2025-10-06 10:46","László Sallai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10038,"2025-10-04 14:24","Erzsébet Balogh-Dobos","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-10037,"2025-10-03 11:19","József Győri","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-9993,"2025-10-02 20:29","Ervin Gyenes","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9952,"2025-10-02 16:55","Gábor Almási","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9930,"2025-10-02 10:56","Katalin Kuntner","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9928,"2025-10-02 09:47","Margit Patai-Szabó","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9832,"2025-10-01 16:17","Benjamin Bakó","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9831,"2025-10-01 13:04","Tímea Ládi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9830,"2025-10-01 09:01","Barna Vőcsei","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-9829,"2025-10-01 07:59","Tibor Nagy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9676,"2025-09-30 10:30","Ördög Andrea","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9672,"2025-09-29 16:34","József Németh","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9671,"2025-09-29 10:13","Enikő Csepregi","Python Start Tréning",1,19900,Teljesítve
-9473,"2025-09-28 16:19","Kiss Tünde","Python Start Tréning",1,19900,Teljesítve
-9419,"2025-09-26 17:09","László Szabó","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-9381,"2025-09-25 20:22","József Szokodi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9376,"2025-09-25 12:18","László Veres","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9375,"2025-09-25 11:19","Balázs Baksa","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9374,"2025-09-25 11:18","Ferenc Pusztai","Python Start Tréning",1,19900,Teljesítve
-9373,"2025-09-25 10:49","András Ábrahám","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9324,"2025-09-24 15:26","Margit Varga","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9300,"2025-09-23 20:10","Judit Sági","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9294,"2025-09-23 15:26","Gergő Tóth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9293,"2025-09-23 12:03","Péter Laskói","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9292,"2025-09-23 03:57","Gabriella Fábián-Kiss","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9287,"2025-09-22 11:08","Adél Zsobrák","Python Start Tréning",1,19900,Teljesítve
-9286,"2025-09-22 09:35","Viktor Orbán","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9104,"2025-09-20 08:06","Judit Lukács","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9061,"2025-09-18 04:52","Enikő Soós","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9060,"2025-09-17 18:21","Mónika Csontos","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9059,"2025-09-17 17:26","Magdolna Bagi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9057,"2025-09-17 10:03","Anita Mentusz","Python Start Tréning",1,19900,Teljesítve
-9056,"2025-09-17 07:58","Mercédesz Baranyai","Python Start Tréning",1,19900,Teljesítve
-9055,"2025-09-16 20:38","István Deák","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9054,"2025-09-16 20:20","Anett Móri-Radács","Python Start Tréning",1,19900,Teljesítve
-9053,"2025-09-16 17:44","JUHASZ JANOS","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-9052,"2025-09-16 14:04","József Török","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-9051,"2025-09-16 11:06","Ferenc Turóczi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9050,"2025-09-15 12:26","Mária Dom","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9049,"2025-09-15 10:58","Kornél Parádi","Python Start Tréning",1,19900,Teljesítve
-9048,"2025-09-15 07:42","Zoltan Gyori","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9047,"2025-09-13 19:56","Norbert Kiss","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-9045,"2025-09-12 13:18","Róbert Ujszegi","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-9044,"2025-09-12 09:55","József Zoltánné Pálfi","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8989,"2025-09-11 11:06","Kontó Péter","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8988,"2025-09-11 11:02","Ferenc Pusztai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8948,"2025-09-10 14:56","Tamás Csaba","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8936,"2025-09-10 10:07","Hanna Szemerédi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8900,"2025-09-09 13:28","Anikó Vadászy","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8899,"2025-09-09 10:40","György Tánczos","Python Start Tréning",1,19900,Teljesítve
-8898,"2025-09-08 15:15","József Rádli","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8896,"2025-09-07 22:24","László Forgács","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8894,"2025-09-05 14:53","Szilvia Farkas","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8893,"2025-09-04 22:50","Kiss Tünde","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8892,"2025-09-04 20:04","Anita Kissné","Python Alapok - Összegző Munkafüzet",1,2241,Teljesítve
-8891,"2025-09-03 21:23","Imre Gyarmati","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8890,"2025-09-03 20:24","ottó fesztóry","Python Start Tréning",1,17910,Teljesítve
-8889,"2025-09-03 12:50","Zoltán Lipl","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8887,"2025-09-03 09:23","László Sisak","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8886,"2025-09-02 13:47","János Fazekas","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8885,"2025-09-02 13:32","Viktor Csángó","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8884,"2025-09-02 12:37","Béla Schneider","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8883,"2025-09-02 12:10","Kovács Edina","Python Start Tréning",1,19900,Teljesítve
-8882,"2025-09-02 10:38","Papacsek János","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8881,"2025-09-02 07:54","József Dr. Tóth","Python Start Tréning",1,19900,Teljesítve
-8875,"2025-08-31 22:37","David Molnar","Python Start Tréning",1,14900,Teljesítve
-8874,"2025-08-31 21:51","Csaba Vígh","Python Start Tréning",1,14900,Teljesítve
-8873,"2025-08-31 21:51","ISTVÁN BODNÁR","Python Start Tréning",1,14900,Teljesítve
-8872,"2025-08-31 20:55","Mihály Pogácsás","Python Start Tréning",1,14900,Teljesítve
-8871,"2025-08-31 20:52","Attila Hajas","Python Start Tréning",1,14900,Teljesítve
-8869,"2025-08-31 20:28","Tamás Teszéri","Python Start Tréning",1,14900,"Fizetés folyamatban"
-8868,"2025-08-31 20:10","Martin Nagy","Python Start Tréning",1,14900,Teljesítve
-8867,"2025-08-31 19:53","József Kardos","Python Start Tréning",1,14900,Teljesítve
-8866,"2025-08-31 17:30","Ince Czechner","Python Start Tréning",1,14900,Teljesítve
-8865,"2025-08-31 15:11","Schlepp Péter","Python Start Tréning",1,14900,Teljesítve
-8863,"2025-08-31 10:15","Zsolt Mikecz","Python Start Tréning",1,14900,Teljesítve
-8862,"2025-08-31 08:56","Miklós Szirbik","Python Start Tréning",1,14900,Teljesítve
-8861,"2025-08-31 06:29","Holczer Dóra","Python Start Tréning",1,14900,Teljesítve
-8860,"2025-08-30 10:00","István Blaskó","Python Start Tréning",1,14900,Teljesítve
-8859,"2025-08-29 15:55","Tamás Petró","Python Start Tréning",1,14900,Teljesítve
-8858,"2025-08-29 13:34","Klára Bozókiné Tóth","Python Start Tréning",1,14900,Teljesítve
-8857,"2025-08-29 12:12","Attila Török","Python Start Tréning",1,14900,Teljesítve
-8856,"2025-08-29 05:07","Imre Tóth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8855,"2025-08-28 16:33","Zoltán Leitner","Python Start Tréning",1,14400,Teljesítve
-8854,"2025-08-28 15:05","Lilla Miskolczi","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8853,"2025-08-28 14:43","Péter Lukács","Python Start Tréning",1,14900,Teljesítve
-8852,"2025-08-28 13:43","Zoltán Lipl","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8842,"2025-08-28 10:34","Horváth Zoltán","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8841,"2025-08-28 09:48","Dóra Szabó","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8840,"2025-08-28 09:12","Zsolt Orosz","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8839,"2025-08-28 08:11","István Hatvani","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8838,"2025-08-28 06:32","Szilárd Dobi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8837,"2025-08-27 19:32","Ferenc Márton","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8836,"2025-08-27 17:18","Zoltán András Kovács","Python Start Tréning",1,19900,Teljesítve
-8834,"2025-08-26 22:07","Dávid Miskó","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8833,"2025-08-26 19:56","István Madarász","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8832,"2025-08-24 08:10","József Kaján","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8820,"2025-08-22 02:33","Gábor Orosz","Python Start Tréning",1,19900,Teljesítve
-8816,"2025-08-21 16:35","Antal Toronyai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8794,"2025-08-21 15:12","Cirill Leviczky","Python Alapok - Összegző Munkafüzet",1,2490,"Fizetés folyamatban"
-8793,"2025-08-21 14:53","Márta Vanyur","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8792,"2025-08-21 12:59","Adél Zsobrák","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8791,"2025-08-21 10:48","Andrea Badari","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8772,"2025-08-20 09:44","Kovács Edina","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8771,"2025-08-19 21:23","Tibor Bábik","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8770,"2025-08-19 16:12","Katalin Dr. Halmágyiné Czapáry","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8769,"2025-08-19 11:57","Dezső Mutz","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8767,"2025-08-19 09:45","Tamás Bereczki","Python Start Tréning",1,19900,Teljesítve
-8765,"2025-08-18 18:05","András Román","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8763,"2025-08-18 16:42","Sándor Csifó-Nagy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8762,"2025-08-18 15:43","Enikő Havasyné Selmeczi","Python Alapok - Összegző Munkafüzet",2,4980,Teljesítve
-8760,"2025-08-18 14:07","Mariann Tóthné Nóbik","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8759,"2025-08-18 13:45","György Tóth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8754,"2025-08-18 10:36","Dániel Kőszegi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8753,"2025-08-18 10:11","Péter Csizmadia","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8752,"2025-08-18 06:39","Ildikó Kurpé","Python Start Tréning",1,19900,Teljesítve
-8750,"2025-08-16 15:15","Edit Tarczal-Márta","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8749,"2025-08-15 20:16","Csenge Pető","Python Start Tréning",1,0,Teljesítve
-8748,"2025-08-15 15:01","Csaba Dudás","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8747,"2025-08-15 11:16","István Molnár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8746,"2025-08-15 11:09","István Csaba Teréki","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8745,"2025-08-15 09:05","Norbert Pribék","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8743,"2025-08-14 19:13","Henrik Harasta","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8742,"2025-08-14 12:22","Péter Lukács","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8741,"2025-08-14 12:19","Árpád Miskolczi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8738,"2025-08-14 10:02","Kornél Parádi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8736,"2025-08-14 07:18","János Papacsek","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8720,"2025-08-13 11:20","Tivadar Tóth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8445,"2025-08-11 10:18","Judit Balogh","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8404,"2025-08-09 22:20","Vivien Dutka","Python Alapok - Összegző Munkafüzet",2,4980,Teljesítve
-8150,"2025-08-08 13:44","Zsolt Révfy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8135,"2025-08-08 09:05","Tamás Szederkényi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8111,"2025-08-07 16:34","Gábor Orosz","Python Alapok - Összegző Munkafüzet",2,4980,Teljesítve
-8101,"2025-08-07 12:18","tímea hepp","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8100,"2025-08-07 09:33","Tamás Bereczki","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8094,"2025-08-06 14:02","Anita Horváth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8088,"2025-08-06 09:54","Kíra Kovács","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8084,"2025-08-05 12:38","Péter Császár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8083,"2025-08-05 11:17","Zsuzsanna Mályi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8082,"2025-08-05 09:39","Sándor Drahovszky","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8081,"2025-08-05 07:08","László Németh","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8074,"2025-08-04 18:58","János Patakfalvi","Python Start Tréning",1,19900,Teljesítve
-8071,"2025-08-04 14:51","Miklós Toldi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8070,"2025-08-04 12:28","György Kiss","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8069,"2025-08-04 12:12","Zsolt Gömöri","Python Start Tréning",1,19900,Teljesítve
-8068,"2025-08-04 12:07","Szabolcs Csuti","Python Start Tréning",1,19900,Teljesítve
-8066,"2025-08-04 11:49","Tibor Varga","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8065,"2025-08-04 11:27","Mária Honfi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8064,"2025-08-04 09:58","Ákos Horváth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8063,"2025-08-03 09:37","Róbert Horváth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8061,"2025-08-02 19:08","Szilárd Szabó","Python Alapok - Összegző Munkafüzet",1,2490,"Fizetés folyamatban"
-8023,"2025-07-31 22:43","Tamás Bodnár","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8022,"2025-07-31 22:08","Zoltán Kukucska","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8021,"2025-07-31 22:02","Brigitta Milassin","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8019,"2025-07-31 21:20","Nóra Takács","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8018,"2025-07-31 21:18","Tamás Cseri","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8017,"2025-07-31 21:16","Regina Kecskés","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8016,"2025-07-31 20:57","Tamas Kamaras","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8015,"2025-07-31 20:50","János Török","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8014,"2025-07-31 20:50","Kinga Petre","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8013,"2025-07-31 20:41","Erdei Zsolt","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8012,"2025-07-31 20:38","Attila Molnár","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8010,"2025-07-31 19:45","József Hornyák","Python Start Tréning",1,19400,Teljesítve
-8009,"2025-07-31 19:44","Gábor Virág","Python Start Tréning",1,19400,Teljesítve
-8008,"2025-07-31 19:13","Attila Kovacs","Python Start Tréning",1,19900,Teljesítve
-8007,"2025-07-31 18:59","László Pátkai","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8006,"2025-07-31 18:41","Dezső Györfi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-8005,"2025-07-31 18:33","Balazs Vasics","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8004,"2025-07-31 18:33","Csaba Jesztrebszki","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8003,"2025-07-31 17:58","Enikő Horváth","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8002,"2025-07-31 13:13","Krisztián Korcsmáros","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8001,"2025-07-31 12:51","Kunkliné Ildikó","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-8000,"2025-07-31 12:20","Bettina Molnár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7999,"2025-07-31 11:36","Gábor Balczer","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-7998,"2025-07-31 10:58","ferenc Egri","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-7996,"2025-07-31 10:17","István Balogh","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-7995,"2025-07-31 10:03","István Oláh","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-7994,"2025-07-31 09:54","Patrik Kolos Sági","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-7993,"2025-07-31 09:41","Sándor Reznik","Python Alapok - Összegző Munkafüzet",1,1990,Teljesítve
-7992,"2025-07-31 09:38","Attila Horváth","Python Alapok - Összegző Munkafüzet",1,22390,Teljesítve
-7992,"2025-07-31 09:38","Attila Horváth","Python Start Tréning",1,22390,Teljesítve
-7990,"2025-07-31 09:09","Tamas Taszler","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7988,"2025-07-31 07:29","Veronika Vivien Domjánné Párizs","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7987,"2025-07-31 05:27","Sándor Fábián","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7986,"2025-07-30 23:23","Tamás Turupoli","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7984,"2025-07-30 19:05","Lajos Bencsik","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7980,"2025-07-30 12:59","Enikő Dr. Nagy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7979,"2025-07-30 12:34","Erika Molnár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7977,"2025-07-30 11:04","József Kiss","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7976,"2025-07-30 10:48","Tamás Élő","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7971,"2025-07-30 09:55","Gábor Tóth","Python Alapok - Összegző Munkafüzet",1,2490,"Fizetés folyamatban"
-7970,"2025-07-30 09:41","Norbert Varga","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7969,"2025-07-30 09:37","Gyula Listár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7968,"2025-07-30 09:32","Marianna Veresné Danilla","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7967,"2025-07-30 09:21","Balázs Vida","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7966,"2025-07-30 09:20","Csaba Tarjányi","Python Start Tréning",1,19900,Teljesítve
-7957,"2025-07-30 04:51","Andrea Ottmár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7956,"2025-07-29 22:40","Péter Ninausz","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7955,"2025-07-29 20:53","Róbert Tóth Deme","Python Start Tréning",1,19900,Teljesítve
-7954,"2025-07-29 18:15","Valter Grosch","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7953,"2025-07-29 17:47","Béla Crisztescu","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7951,"2025-07-29 17:04","Gergő Réti","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7950,"2025-07-29 16:10","Gyula Németh","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7949,"2025-07-29 15:42","Sándor Kerekes","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7925,"2025-07-29 09:01","Mátyás Ónodi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7924,"2025-07-29 08:20","Tamás Teklits","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7923,"2025-07-29 07:59","Réka Nagy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7922,"2025-07-29 07:48","Nóra Pethő","Python Start Tréning",1,19900,Teljesítve
-7921,"2025-07-29 06:45","János Borbás","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7920,"2025-07-29 04:28","Attila Baros","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7919,"2025-07-28 22:36","László Daragó","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7917,"2025-07-28 22:16","Csaba Dezső","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7916,"2025-07-28 22:15","Jánosné Walczer","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7915,"2025-07-28 21:21","Éva Sárközi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7914,"2025-07-28 20:44","Ildikó Erzsébet Juhász","Python Start Tréning",1,19900,Teljesítve
-7911,"2025-07-28 17:34","Ferenc Harmati","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7910,"2025-07-28 17:29","Károly Erdélyi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7909,"2025-07-28 16:01","Zsolt Lippai","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7907,"2025-07-28 13:10","Zoltán Désvári","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7906,"2025-07-28 12:55","Zsuzsanna Bánkuti","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7905,"2025-07-28 12:50","Fancsali Alpár","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7904,"2025-07-28 12:49","Róbert Botlik","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7903,"2025-07-28 12:15","Antal Rókus Vigh","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7902,"2025-07-28 12:11","Kovács Zoltán","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7900,"2025-07-28 10:28","Lajos Ringer","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7899,"2025-07-28 10:21","Tibor Szénási","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7898,"2025-07-28 10:19","Péter Herczeg","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7892,"2025-07-27 10:22","Rita Nagy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7891,"2025-07-27 10:13","Ágota Farkas","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7890,"2025-07-27 07:24","Norbert Spolmin","Python Start Tréning",1,19900,Teljesítve
-7840,"2025-07-26 16:15","Gábor Nagy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7838,"2025-07-26 14:37","Attila Szeles","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7833,"2025-07-25 20:45","Angéla Kátainé Marosi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7830,"2025-07-25 13:26","Anna Palotás","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7828,"2025-07-25 12:39","Robert Tóth-Deme","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7827,"2025-07-25 12:37","Balázs Odrobina","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7826,"2025-07-25 10:59","György Horváth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7825,"2025-07-25 10:44","István Drusza","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7823,"2025-07-25 08:23","Franciska Szabó","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7822,"2025-07-25 08:06","Zoltán András Kovács","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7821,"2025-07-24 20:44","Viktor Steinmacher","Python Start Tréning",1,19900,Teljesítve
-7820,"2025-07-24 16:43","Gábor Kovács","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7819,"2025-07-24 11:54","Kitti Balaton","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7806,"2025-07-23 21:25","Adrienn Dobos","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7801,"2025-07-23 15:39","János Patakfalvi","Python Alapok - Összegző Munkafüzet",2,4980,Teljesítve
-7798,"2025-07-23 15:08","Melinda Oláhné Sarkadi","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7797,"2025-07-23 15:08","Dorina Feigl","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7796,"2025-07-23 15:01","Imre Deák","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7793,"2025-07-23 14:42","János Biró","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7792,"2025-07-23 14:30","Norbert Spolmin","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7791,"2025-07-23 13:43","Gábor Tóth","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7790,"2025-07-23 12:33","Ádám Nagy","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7789,"2025-07-23 11:54","Sándor Kovács","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7788,"2025-07-23 11:49","Gábor Orosz","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7787,"2025-07-23 11:44","Tibor Veres","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7786,"2025-07-23 11:02","Csaba Pintér","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7784,"2025-07-23 10:49","Gábor Farkas","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7783,"2025-07-23 10:39","Ágnes Boros","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7782,"2025-07-23 10:35","Draskóczy János","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7781,"2025-07-23 10:26","Jenei Tibor","Python Alapok - Összegző Munkafüzet",1,2490,Teljesítve
-7778,"2025-07-23 06:37","JUDIT EMESE SZRNKA","Python Start Tréning",1,19900,Teljesítve
-7664,"2025-07-21 14:35","Gábor Mohácsi","Python Start Tréning",1,19900,Teljesítve
-7623,"2025-07-21 07:14","Anikó Anna Hajduné Kubovje","Python Start Tréning",1,19900,Teljesítve
-7622,"2025-07-20 16:13","Egon Pópity","Python Start Tréning",1,19900,Teljesítve
-7570,"2025-07-13 13:28","Ferenc Seregi","Python Start Tréning",1,19900,Teljesítve
-7568,"2025-07-13 07:27","József Lakos","Python Start Tréning",1,19900,Teljesítve
-7567,"2025-07-12 14:21","Vivien Hallósy","Python Start Tréning",1,19900,Teljesítve
-7566,"2025-07-12 13:46","Norbert Vastag","Python Start Tréning",1,19900,Teljesítve
-7545,"2025-07-08 19:18","Tivadar Üveges","Python Start Tréning",1,19900,Teljesítve
-7498,"2025-07-05 11:38","Ferenc Sipos","Python Start Tréning",1,19900,Teljesítve
-7495,"2025-06-30 21:47","Krisztián Verdes","Python Start Tréning",1,19900,Teljesítve
-7494,"2025-06-30 21:23","Zoltán Magyar","Python Start Tréning",1,19900,Teljesítve
-7492,"2025-06-30 10:50","Judit Balog","Python Start Tréning",1,19900,Teljesítve
-7491,"2025-06-29 15:56","Tamás Zahorecz","Python Start Tréning",1,19900,Teljesítve
-7490,"2025-06-27 16:04","Gábor Gőbölös","Python Start Tréning",1,19900,Teljesítve
-7489,"2025-06-26 16:17","Júlia Bocskay","Python Start Tréning",1,19900,Teljesítve
-7488,"2025-06-25 20:39","Lívia Hliva","Python Start Tréning",1,19900,Teljesítve
-7487,"2025-06-25 13:52","Csanád Peterdy","Python Start Tréning",1,19900,Teljesítve
-7485,"2025-06-25 09:57","Viktor Oszkó","Python Start Tréning",1,19900,Teljesítve
-7484,"2025-06-24 13:56","József Takács","Python Start Tréning",1,19900,Teljesítve
-7483,"2025-06-23 12:45","István Bajza","Python Start Tréning",1,19900,Teljesítve
-7482,"2025-06-23 11:17","Lajos Herczeg","Python Start Tréning",1,19900,Teljesítve
-7481,"2025-06-20 13:10","Zoltán Babud","Python Start Tréning",1,19900,Teljesítve
-7479,"2025-06-19 07:13","Attila Böjtös","Python Start Tréning",1,19900,Teljesítve
-7478,"2025-06-18 12:23","László Gecse","Python Start Tréning",1,19900,Teljesítve
-7477,"2025-06-18 11:24","Orlando Kis","Python Start Tréning",1,19900,Teljesítve
-7476,"2025-06-18 10:18","László Baranyi","Python Start Tréning",1,19900,Teljesítve
-7475,"2025-06-18 10:09","Zoltán Kelemen","Python Start Tréning",1,19900,Teljesítve
-7474,"2025-06-18 09:51","Georgina Hegyi","Python Start Tréning",1,19900,Teljesítve
-7469,"2025-06-13 11:09","Imre Novák","Python Start Tréning",1,19900,Teljesítve
-7468,"2025-06-13 09:33","Ildikó Gál","Python Start Tréning",1,19900,Teljesítve
-7467,"2025-06-12 19:13","György Danás","Python Start Tréning",1,19900,Teljesítve
-7466,"2025-06-12 10:31","Vince Szabari","Python Start Tréning",1,19900,Teljesítve
-7465,"2025-06-12 06:43","Zoltán Fehér","Python Start Tréning",1,19900,Teljesítve
-7464,"2025-06-12 04:19","Sándor Török","Python Start Tréning",1,19900,Teljesítve
-7460,"2025-06-11 21:25","Péter Belléncs","Python Start Tréning",1,19900,Teljesítve
-7459,"2025-06-11 18:49","Tamás Kovács","Python Start Tréning",1,19900,Teljesítve
-7458,"2025-06-11 16:51","Mihály Bakó","Python Start Tréning",1,19900,Teljesítve
-7457,"2025-06-11 15:22","Gábor Raksányi","Python Start Tréning",1,19900,Teljesítve
-7456,"2025-06-11 15:17","Tibor Jároli","Python Start Tréning",1,19900,Teljesítve
+15343,2026-03-14 14:08,Drew Knight,Python Start Tréning - Prémium csomag,1,29900,Teljesítve
+15341,2026-03-13 17:36,Alex Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+15327,2026-03-13 14:41,Jamie Brooks,Python Start Tréning - Prémium csomag,1,29900,Teljesítve
+15325,2026-03-13 13:26,Reese Walker,Python Start Tréning - Prémium csomag,1,29900,Teljesítve
+15321,2026-03-12 09:55,Cameron Foster,Python Start Tréning - Prémium csomag,1,29900,Teljesítve
+15300,2026-03-08 22:43,Avery Hayes,Python Start Tréning - Prémium csomag,1,29900,Teljesítve
+14997,2026-02-12 10:33,Skyler Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+14985,2026-02-10 08:13,Parker Ward,Python Start Tréning - Prémium csomag,1,29900,Teljesítve
+14915,2026-02-06 21:30,Dakota Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+14868,2026-02-06 11:19,Morgan Bennett,Python Start Tréning,1,24900,Teljesítve
+14856,2026-02-05 19:28,Casey Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+13381,2026-01-10 11:39,Avery Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+13254,2026-01-08 07:36,Drew Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+13062,2026-01-05 09:11,Jamie Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+13002,2026-01-04 22:53,Alex Mitchell,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12995,2026-01-04 22:15,Riley Lee,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12789,2025-12-31 17:43,Logan Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+12787,2025-12-30 09:44,Morgan Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12783,2025-12-29 09:10,Taylor Lee,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12781,2025-12-28 20:31,Quinn Coleman,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12780,2025-12-28 19:19,Skyler Dawson,Python Start Tréning,1,19900,Teljesítve
+12779,2025-12-28 14:53,Cameron Turner,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12772,2025-12-27 19:29,Dakota Bennett,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12771,2025-12-27 14:52,Skyler Hayes,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12769,2025-12-26 12:11,Dakota Walker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12768,2025-12-26 10:39,Jamie Carter,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12767,2025-12-25 17:44,Jamie Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12762,2025-12-25 12:23,Skyler Rivera,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12761,2025-12-25 11:59,Rowan Parker,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12756,2025-12-25 07:55,Jamie Price,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12755,2025-12-25 07:38,Rowan Carter,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12754,2025-12-25 05:01,Cameron Hayes,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12753,2025-12-25 02:00,Taylor Parker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12750,2025-12-25 00:01,Blake Mitchell,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12747,2025-12-24 23:51,Quinn Parker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12746,2025-12-24 23:49,Drew Brooks,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12744,2025-12-24 23:25,Hunter Reed,Python Start Tréning - Prémium csomag,2,39800,Teljesítve
+12743,2025-12-24 23:19,Morgan Price,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12741,2025-12-24 22:52,Rowan Morgan,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12740,2025-12-24 22:35,Taylor Walker,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12739,2025-12-24 22:33,Logan Turner,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12738,2025-12-24 22:19,Sawyer Carter,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12737,2025-12-24 22:18,Drew Turner,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12736,2025-12-24 21:59,Drew Dawson,Python Start Tréning - Prémium csomag,1,19900,Fizetés folyamatban
+12728,2025-12-24 21:23,Blake Price,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12727,2025-12-24 21:14,Skyler Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12726,2025-12-24 21:09,Casey Hayes,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12725,2025-12-24 21:04,Jamie Brooks,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12723,2025-12-24 20:36,Logan Carter,Python Start Tréning - Prémium csomag,1,19900,Fizetés folyamatban
+12722,2025-12-24 20:30,Jamie Bennett,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12721,2025-12-24 20:27,Morgan Carter,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12720,2025-12-24 20:22,Parker Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12719,2025-12-24 20:08,Rowan Sullivan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12718,2025-12-24 20:02,Riley Harrison,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12714,2025-12-24 19:30,Casey Turner,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12713,2025-12-24 19:29,Hunter Hayes,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12712,2025-12-24 19:29,Parker Harrison,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12711,2025-12-24 19:12,Alex Rivera,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12710,2025-12-24 19:01,Riley Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12708,2025-12-24 18:17,Morgan Lee,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12707,2025-12-24 18:06,Riley Parker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12703,2025-12-24 15:35,Alex Sullivan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12702,2025-12-24 15:14,Rowan Hayes,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12701,2025-12-24 13:50,Parker Harrison,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12699,2025-12-24 12:38,Logan Rivera,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12698,2025-12-24 11:55,Sawyer Carter,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12697,2025-12-24 11:34,Riley Harrison,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12696,2025-12-24 11:15,Riley Ward,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12695,2025-12-24 10:40,Casey Carter,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12693,2025-12-24 09:34,Rowan Rivera,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12692,2025-12-24 09:25,Quinn Dawson,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12691,2025-12-24 09:04,Logan Knight,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12690,2025-12-24 09:02,Alex Brooks,ChatGPT Asszisztens - Hogyan tanulj Pythonban gyorsabban (e-Könyv),1,4990,Teljesítve
+12689,2025-12-24 08:57,Sawyer Turner,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12687,2025-12-24 07:59,Taylor Walker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12686,2025-12-24 06:46,Quinn Mitchell,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12683,2025-12-24 03:06,Reese Coleman,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12680,2025-12-24 01:24,Logan Knight,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12679,2025-12-24 00:59,Blake Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12678,2025-12-24 00:42,Alex Reed,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12677,2025-12-24 00:09,Casey Sullivan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12674,2025-12-23 22:16,Dakota Price,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12673,2025-12-23 22:14,Quinn Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12672,2025-12-23 20:19,Reese Lee,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12671,2025-12-23 19:55,Alex Brooks,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12670,2025-12-23 18:57,Avery Brooks,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12669,2025-12-23 17:34,Logan Coleman,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12668,2025-12-23 15:36,Hunter Hayes,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12666,2025-12-23 12:41,Alex Brooks,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12664,2025-12-23 11:58,Jamie Carter,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12662,2025-12-23 10:39,Drew Hayes,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12660,2025-12-23 10:02,Morgan Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12659,2025-12-23 08:24,Reese Morgan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12658,2025-12-23 07:46,Skyler Knight,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12656,2025-12-23 07:08,Jamie Coleman,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12654,2025-12-22 23:03,Drew Price,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12653,2025-12-22 22:49,Morgan Morgan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12652,2025-12-22 18:33,Casey Hayes,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12650,2025-12-22 16:27,Parker Mitchell,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12648,2025-12-22 14:18,Blake Walker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12647,2025-12-22 12:27,Dakota Price,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12645,2025-12-22 11:54,Sawyer Rivera,Python Start Tréning - Prémium csomag,1,19900,Fizetés folyamatban
+12644,2025-12-22 07:23,Dakota Carter,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12642,2025-12-22 05:39,Hunter Parker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12627,2025-12-21 16:45,Skyler Sullivan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12626,2025-12-21 16:25,Riley Walker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12624,2025-12-21 13:49,Skyler Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12622,2025-12-21 09:40,Skyler Lee,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12620,2025-12-20 18:09,Sawyer Mitchell,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12619,2025-12-20 15:36,Rowan Hayes,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12618,2025-12-20 15:25,Morgan Foster,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12616,2025-12-20 13:51,Rowan Harrison,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12615,2025-12-20 12:30,Jamie Coleman,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12614,2025-12-20 06:29,Parker Reed,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12611,2025-12-19 16:16,Riley Harrison,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12608,2025-12-19 10:31,Parker Parker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12606,2025-12-19 10:02,Alex Sullivan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12604,2025-12-18 19:44,Blake Walker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12603,2025-12-18 18:36,Skyler Knight,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12601,2025-12-18 15:51,Quinn Harrison,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12598,2025-12-18 13:41,Riley Lee,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12597,2025-12-18 13:39,Reese Brooks,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12596,2025-12-18 10:52,Dakota Rivera,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12594,2025-12-18 10:07,Jordan Knight,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12593,2025-12-17 18:50,Jamie Turner,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12591,2025-12-17 12:08,Rowan Price,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+12582,2025-12-15 20:16,Jamie Morgan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12580,2025-12-15 17:34,Drew Morgan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12579,2025-12-15 17:09,Parker Ward,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12578,2025-12-15 16:54,Riley Reed,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12575,2025-12-15 09:51,Jamie Brooks,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12566,2025-12-14 20:54,Hunter Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+12564,2025-12-14 19:57,Jamie Sullivan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12563,2025-12-14 19:35,Taylor Coleman,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12562,2025-12-14 19:18,Cameron Parker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12560,2025-12-14 14:53,Skyler Dawson,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12559,2025-12-14 10:02,Skyler Turner,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12558,2025-12-14 09:18,Avery Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+12556,2025-12-13 21:07,Alex Bennett,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12552,2025-12-13 15:28,Dakota Ward,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12551,2025-12-13 13:28,Cameron Parker,Python Start Tréning - Prémium csomag,1,17910,Teljesítve
+12549,2025-12-13 11:45,Jamie Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+12548,2025-12-13 11:01,Drew Price,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12547,2025-12-12 22:11,Taylor Morgan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12545,2025-12-12 10:45,Logan Sullivan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12544,2025-12-12 09:53,Dakota Sullivan,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12542,2025-12-11 23:10,Dakota Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+12541,2025-12-11 22:21,Blake Walker,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12540,2025-12-11 17:23,Rowan Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+12537,2025-12-11 13:44,Avery Knight,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12497,2025-12-11 12:26,Reese Price,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+12477,2025-12-11 10:58,Casey Hayes,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12476,2025-12-11 06:30,Logan Dawson,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12475,2025-12-11 06:03,Rowan Brooks,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12474,2025-12-10 14:06,Parker Brooks,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12472,2025-12-10 11:46,Cameron Lee,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12470,2025-12-10 10:49,Riley Price,Python Start Tréning - Prémium csomag,1,19900,Teljesítve
+12420,2025-12-09 21:07,Jamie Lee,Python Start Tréning - Prémium csomag,1,300,Teljesítve
+12239,2025-12-05 11:33,Taylor Coleman,Python Alapok - Összegző Munkafüzet,1,22390,Teljesítve
+12239,2025-12-05 11:33,Drew Coleman,Python Start Tréning,1,22390,Teljesítve
+12134,2025-12-02 17:02,Morgan Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11935,2025-11-28 06:47,Blake Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11837,2025-11-27 20:53,Hunter Brooks,Python Start Tréning,1,19900,Teljesítve
+11685,2025-11-26 20:36,Avery Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11600,2025-11-26 10:37,Hunter Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11442,2025-11-22 11:50,Jordan Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11441,2025-11-21 19:39,Jordan Turner,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+11440,2025-11-20 15:01,Avery Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11439,2025-11-20 12:18,Jordan Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11436,2025-11-18 20:32,Casey Reed,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+11307,2025-11-15 16:05,Morgan Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11306,2025-11-15 13:46,Blake Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11305,2025-11-14 14:37,Avery Dawson,Python Start Tréning,1,19900,Teljesítve
+11302,2025-11-13 18:56,Reese Price,Python Start Tréning,1,19900,Teljesítve
+11207,2025-11-12 11:03,Casey Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11206,2025-11-12 10:37,Jamie Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11182,2025-11-10 20:21,Parker Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11181,2025-11-10 17:32,Dakota Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11131,2025-11-08 12:15,Riley Walker,Python Start Tréning,1,19900,Teljesítve
+11130,2025-11-07 18:35,Jamie Mitchell,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+11129,2025-11-07 13:39,Cameron Ward,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+11128,2025-11-07 10:49,Cameron Harrison,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+11127,2025-11-06 11:51,Skyler Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11126,2025-11-06 09:17,Quinn Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11104,2025-11-05 21:59,Rowan Turner,Python Start Tréning,1,19900,Teljesítve
+11103,2025-11-05 20:10,Skyler Morgan,Python Start Tréning,1,19900,Teljesítve
+11098,2025-11-05 08:49,Blake Price,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+11035,2025-11-04 11:06,Casey Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10972,2025-11-03 22:15,Casey Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10934,2025-11-03 10:26,Reese Foster,Python Start Tréning,1,19900,Teljesítve
+10933,2025-11-03 10:21,Taylor Parker,Python Start Tréning,1,19900,Teljesítve
+10930,2025-10-31 16:07,Rowan Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10909,2025-10-31 08:42,Jamie Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10825,2025-10-30 11:39,Rowan Harrison,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+10824,2025-10-30 10:55,Skyler Ward,Python Start Tréning,1,19900,Teljesítve
+10777,2025-10-29 13:48,Alex Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10745,2025-10-28 14:34,Sawyer Dawson,Python Start Tréning,1,19900,Teljesítve
+10721,2025-10-27 08:07,Blake Walker,Python Start Tréning,1,19900,Teljesítve
+10720,2025-10-27 07:14,Casey Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10713,2025-10-25 19:10,Riley Price,Python Start Tréning,1,19900,Teljesítve
+10711,2025-10-24 10:12,Cameron Mitchell,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+10710,2025-10-24 09:57,Parker Harrison,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+10696,2025-10-22 23:02,Parker Walker,Python Start Tréning,1,19900,Teljesítve
+10695,2025-10-22 10:15,Cameron Coleman,Python Start Tréning,1,19900,Teljesítve
+10693,2025-10-22 09:44,Casey Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10683,2025-10-21 13:38,Morgan Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10679,2025-10-21 09:21,Dakota Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10678,2025-10-21 07:59,Rowan Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10651,2025-10-20 17:27,Alex Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10630,2025-10-20 15:36,Rowan Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10629,2025-10-20 14:29,Avery Morgan,Python Start Tréning,1,19900,Teljesítve
+10615,2025-10-20 10:36,Hunter Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10614,2025-10-20 09:58,Jordan Harrison,Python Start Tréning,1,19900,Teljesítve
+10613,2025-10-20 09:19,Drew Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10404,2025-10-18 10:12,Rowan Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10288,2025-10-17 11:05,Logan Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10287,2025-10-16 10:34,Drew Coleman,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+10286,2025-10-15 21:04,Riley Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10282,2025-10-14 22:14,Hunter Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10281,2025-10-14 12:41,Blake Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10280,2025-10-14 11:22,Cameron Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10279,2025-10-13 13:59,Quinn Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10278,2025-10-13 11:23,Riley Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10277,2025-10-12 08:33,Cameron Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10276,2025-10-10 16:15,Sawyer Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10275,2025-10-10 14:53,Avery Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10274,2025-10-10 13:15,Quinn Price,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+10188,2025-10-09 10:58,Drew Brooks,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+10186,2025-10-08 14:52,Dakota Turner,Python Start Tréning,1,19900,Teljesítve
+10185,2025-10-08 11:11,Jordan Bennett,Python Start Tréning,1,19900,Teljesítve
+10184,2025-10-08 10:43,Alex Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10183,2025-10-08 07:17,Alex Sullivan,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+10107,2025-10-06 19:00,Casey Rivera,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10088,2025-10-06 12:43,Riley Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10087,2025-10-06 10:46,Jamie Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10038,2025-10-04 14:24,Jamie Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+10037,2025-10-03 11:19,Skyler Bennett,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+9993,2025-10-02 20:29,Dakota Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9952,2025-10-02 16:55,Avery Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9930,2025-10-02 10:56,Taylor Ward,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9928,2025-10-02 09:47,Sawyer Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9832,2025-10-01 16:17,Alex Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9831,2025-10-01 13:04,Alex Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9830,2025-10-01 09:01,Quinn Sullivan,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+9829,2025-10-01 07:59,Parker Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9676,2025-09-30 10:30,Logan Price,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9672,2025-09-29 16:34,Alex Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9671,2025-09-29 10:13,Sawyer Brooks,Python Start Tréning,1,19900,Teljesítve
+9473,2025-09-28 16:19,Drew Morgan,Python Start Tréning,1,19900,Teljesítve
+9419,2025-09-26 17:09,Parker Carter,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+9381,2025-09-25 20:22,Casey Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9376,2025-09-25 12:18,Jordan Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9375,2025-09-25 11:19,Parker Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9374,2025-09-25 11:18,Jordan Brooks,Python Start Tréning,1,19900,Teljesítve
+9373,2025-09-25 10:49,Rowan Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9324,2025-09-24 15:26,Quinn Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9300,2025-09-23 20:10,Quinn Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9294,2025-09-23 15:26,Dakota Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9293,2025-09-23 12:03,Hunter Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9292,2025-09-23 03:57,Morgan Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9287,2025-09-22 11:08,Hunter Ward,Python Start Tréning,1,19900,Teljesítve
+9286,2025-09-22 09:35,Morgan Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9104,2025-09-20 08:06,Quinn Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9061,2025-09-18 04:52,Avery Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9060,2025-09-17 18:21,Reese Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9059,2025-09-17 17:26,Blake Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9057,2025-09-17 10:03,Rowan Ward,Python Start Tréning,1,19900,Teljesítve
+9056,2025-09-17 07:58,Reese Rivera,Python Start Tréning,1,19900,Teljesítve
+9055,2025-09-16 20:38,Drew Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9054,2025-09-16 20:20,Logan Bennett,Python Start Tréning,1,19900,Teljesítve
+9053,2025-09-16 17:44,Hunter Coleman,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+9052,2025-09-16 14:04,Quinn Reed,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+9051,2025-09-16 11:06,Cameron Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9050,2025-09-15 12:26,Sawyer Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9049,2025-09-15 10:58,Dakota Walker,Python Start Tréning,1,19900,Teljesítve
+9048,2025-09-15 07:42,Blake Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9047,2025-09-13 19:56,Dakota Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+9045,2025-09-12 13:18,Avery Morgan,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+9044,2025-09-12 09:55,Logan Mitchell,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8989,2025-09-11 11:06,Avery Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8988,2025-09-11 11:02,Jamie Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8948,2025-09-10 14:56,Skyler Mitchell,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8936,2025-09-10 10:07,Avery Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8900,2025-09-09 13:28,Taylor Price,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8899,2025-09-09 10:40,Reese Bennett,Python Start Tréning,1,19900,Teljesítve
+8898,2025-09-08 15:15,Cameron Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8896,2025-09-07 22:24,Taylor Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8894,2025-09-05 14:53,Jordan Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8893,2025-09-04 22:50,Reese Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8892,2025-09-04 20:04,Taylor Sullivan,Python Alapok - Összegző Munkafüzet,1,2241,Teljesítve
+8891,2025-09-03 21:23,Avery Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8890,2025-09-03 20:24,Hunter Foster,Python Start Tréning,1,17910,Teljesítve
+8889,2025-09-03 12:50,Dakota Knight,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8887,2025-09-03 09:23,Sawyer Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8886,2025-09-02 13:47,Avery Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8885,2025-09-02 13:32,Skyler Dawson,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8884,2025-09-02 12:37,Dakota Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8883,2025-09-02 12:10,Parker Sullivan,Python Start Tréning,1,19900,Teljesítve
+8882,2025-09-02 10:38,Morgan Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8881,2025-09-02 07:54,Jordan Walker,Python Start Tréning,1,19900,Teljesítve
+8875,2025-08-31 22:37,Reese Sullivan,Python Start Tréning,1,14900,Teljesítve
+8874,2025-08-31 21:51,Jamie Knight,Python Start Tréning,1,14900,Teljesítve
+8873,2025-08-31 21:51,Casey Lee,Python Start Tréning,1,14900,Teljesítve
+8872,2025-08-31 20:55,Jordan Ward,Python Start Tréning,1,14900,Teljesítve
+8871,2025-08-31 20:52,Blake Price,Python Start Tréning,1,14900,Teljesítve
+8869,2025-08-31 20:28,Avery Foster,Python Start Tréning,1,14900,Fizetés folyamatban
+8868,2025-08-31 20:10,Jordan Dawson,Python Start Tréning,1,14900,Teljesítve
+8867,2025-08-31 19:53,Dakota Parker,Python Start Tréning,1,14900,Teljesítve
+8866,2025-08-31 17:30,Taylor Rivera,Python Start Tréning,1,14900,Teljesítve
+8865,2025-08-31 15:11,Avery Reed,Python Start Tréning,1,14900,Teljesítve
+8863,2025-08-31 10:15,Blake Coleman,Python Start Tréning,1,14900,Teljesítve
+8862,2025-08-31 08:56,Blake Parker,Python Start Tréning,1,14900,Teljesítve
+8861,2025-08-31 06:29,Riley Sullivan,Python Start Tréning,1,14900,Teljesítve
+8860,2025-08-30 10:00,Quinn Reed,Python Start Tréning,1,14900,Teljesítve
+8859,2025-08-29 15:55,Dakota Harrison,Python Start Tréning,1,14900,Teljesítve
+8858,2025-08-29 13:34,Riley Carter,Python Start Tréning,1,14900,Teljesítve
+8857,2025-08-29 12:12,Taylor Harrison,Python Start Tréning,1,14900,Teljesítve
+8856,2025-08-29 05:07,Avery Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8855,2025-08-28 16:33,Casey Turner,Python Start Tréning,1,14400,Teljesítve
+8854,2025-08-28 15:05,Logan Price,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8853,2025-08-28 14:43,Hunter Dawson,Python Start Tréning,1,14900,Teljesítve
+8852,2025-08-28 13:43,Avery Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8842,2025-08-28 10:34,Morgan Price,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8841,2025-08-28 09:48,Logan Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8840,2025-08-28 09:12,Alex Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8839,2025-08-28 08:11,Morgan Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8838,2025-08-28 06:32,Quinn Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8837,2025-08-27 19:32,Casey Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8836,2025-08-27 17:18,Reese Dawson,Python Start Tréning,1,19900,Teljesítve
+8834,2025-08-26 22:07,Alex Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8833,2025-08-26 19:56,Logan Price,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8832,2025-08-24 08:10,Blake Harrison,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8820,2025-08-22 02:33,Blake Harrison,Python Start Tréning,1,19900,Teljesítve
+8816,2025-08-21 16:35,Avery Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8794,2025-08-21 15:12,Logan Lee,Python Alapok - Összegző Munkafüzet,1,2490,Fizetés folyamatban
+8793,2025-08-21 14:53,Parker Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8792,2025-08-21 12:59,Sawyer Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8791,2025-08-21 10:48,Blake Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8772,2025-08-20 09:44,Avery Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8771,2025-08-19 21:23,Alex Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8770,2025-08-19 16:12,Cameron Rivera,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8769,2025-08-19 11:57,Parker Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8767,2025-08-19 09:45,Reese Mitchell,Python Start Tréning,1,19900,Teljesítve
+8765,2025-08-18 18:05,Taylor Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8763,2025-08-18 16:42,Quinn Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8762,2025-08-18 15:43,Dakota Hayes,Python Alapok - Összegző Munkafüzet,2,4980,Teljesítve
+8760,2025-08-18 14:07,Cameron Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8759,2025-08-18 13:45,Quinn Rivera,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8754,2025-08-18 10:36,Logan Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8753,2025-08-18 10:11,Blake Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8752,2025-08-18 06:39,Skyler Bennett,Python Start Tréning,1,19900,Teljesítve
+8750,2025-08-16 15:15,Jamie Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8749,2025-08-15 20:16,Avery Hayes,Python Start Tréning,1,0,Teljesítve
+8748,2025-08-15 15:01,Logan Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8747,2025-08-15 11:16,Cameron Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8746,2025-08-15 11:09,Rowan Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8745,2025-08-15 09:05,Blake Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8743,2025-08-14 19:13,Dakota Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8742,2025-08-14 12:22,Parker Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8741,2025-08-14 12:19,Dakota Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8738,2025-08-14 10:02,Reese Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8736,2025-08-14 07:18,Jordan Parker,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8720,2025-08-13 11:20,Jamie Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8445,2025-08-11 10:18,Riley Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8404,2025-08-09 22:20,Hunter Bennett,Python Alapok - Összegző Munkafüzet,2,4980,Teljesítve
+8150,2025-08-08 13:44,Logan Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8135,2025-08-08 09:05,Jamie Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8111,2025-08-07 16:34,Jordan Rivera,Python Alapok - Összegző Munkafüzet,2,4980,Teljesítve
+8101,2025-08-07 12:18,Avery Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8100,2025-08-07 09:33,Reese Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8094,2025-08-06 14:02,Quinn Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8088,2025-08-06 09:54,Morgan Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8084,2025-08-05 12:38,Taylor Rivera,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8083,2025-08-05 11:17,Rowan Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8082,2025-08-05 09:39,Jordan Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8081,2025-08-05 07:08,Dakota Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8074,2025-08-04 18:58,Riley Parker,Python Start Tréning,1,19900,Teljesítve
+8071,2025-08-04 14:51,Jamie Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8070,2025-08-04 12:28,Drew Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8069,2025-08-04 12:12,Skyler Sullivan,Python Start Tréning,1,19900,Teljesítve
+8068,2025-08-04 12:07,Sawyer Bennett,Python Start Tréning,1,19900,Teljesítve
+8066,2025-08-04 11:49,Casey Parker,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8065,2025-08-04 11:27,Hunter Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8064,2025-08-04 09:58,Jordan Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8063,2025-08-03 09:37,Rowan Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8061,2025-08-02 19:08,Morgan Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Fizetés folyamatban
+8023,2025-07-31 22:43,Parker Hayes,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8022,2025-07-31 22:08,Alex Hayes,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8021,2025-07-31 22:02,Parker Turner,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8019,2025-07-31 21:20,Blake Price,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8018,2025-07-31 21:18,Parker Sullivan,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8017,2025-07-31 21:16,Parker Walker,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8016,2025-07-31 20:57,Blake Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8015,2025-07-31 20:50,Reese Foster,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8014,2025-07-31 20:50,Jamie Bennett,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8013,2025-07-31 20:41,Riley Turner,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8012,2025-07-31 20:38,Avery Carter,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8010,2025-07-31 19:45,Casey Coleman,Python Start Tréning,1,19400,Teljesítve
+8009,2025-07-31 19:44,Dakota Ward,Python Start Tréning,1,19400,Teljesítve
+8008,2025-07-31 19:13,Skyler Parker,Python Start Tréning,1,19900,Teljesítve
+8007,2025-07-31 18:59,Cameron Foster,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8006,2025-07-31 18:41,Parker Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+8005,2025-07-31 18:33,Logan Ward,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8004,2025-07-31 18:33,Casey Turner,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8003,2025-07-31 17:58,Logan Parker,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8002,2025-07-31 13:13,Jordan Morgan,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8001,2025-07-31 12:51,Hunter Reed,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+8000,2025-07-31 12:20,Drew Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7999,2025-07-31 11:36,Jordan Brooks,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+7998,2025-07-31 10:58,Hunter Morgan,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+7996,2025-07-31 10:17,Blake Foster,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+7995,2025-07-31 10:03,Blake Reed,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+7994,2025-07-31 09:54,Quinn Lee,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+7993,2025-07-31 09:41,Casey Bennett,Python Alapok - Összegző Munkafüzet,1,1990,Teljesítve
+7992,2025-07-31 09:38,Rowan Brooks,Python Alapok - Összegző Munkafüzet,1,22390,Teljesítve
+7992,2025-07-31 09:38,Jamie Lee,Python Start Tréning,1,22390,Teljesítve
+7990,2025-07-31 09:09,Jordan Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7988,2025-07-31 07:29,Quinn Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7987,2025-07-31 05:27,Hunter Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7986,2025-07-30 23:23,Dakota Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7984,2025-07-30 19:05,Casey Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7980,2025-07-30 12:59,Avery Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7979,2025-07-30 12:34,Rowan Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7977,2025-07-30 11:04,Hunter Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7976,2025-07-30 10:48,Jordan Hayes,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7971,2025-07-30 09:55,Avery Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Fizetés folyamatban
+7970,2025-07-30 09:41,Jordan Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7969,2025-07-30 09:37,Hunter Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7968,2025-07-30 09:32,Avery Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7967,2025-07-30 09:21,Taylor Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7966,2025-07-30 09:20,Riley Morgan,Python Start Tréning,1,19900,Teljesítve
+7957,2025-07-30 04:51,Blake Rivera,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7956,2025-07-29 22:40,Dakota Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7955,2025-07-29 20:53,Parker Bennett,Python Start Tréning,1,19900,Teljesítve
+7954,2025-07-29 18:15,Jamie Walker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7953,2025-07-29 17:47,Jamie Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7951,2025-07-29 17:04,Blake Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7950,2025-07-29 16:10,Logan Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7949,2025-07-29 15:42,Casey Knight,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7925,2025-07-29 09:01,Avery Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7924,2025-07-29 08:20,Taylor Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7923,2025-07-29 07:59,Skyler Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7922,2025-07-29 07:48,Cameron Morgan,Python Start Tréning,1,19900,Teljesítve
+7921,2025-07-29 06:45,Reese Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7920,2025-07-29 04:28,Drew Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7919,2025-07-28 22:36,Jamie Foster,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7917,2025-07-28 22:16,Parker Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7916,2025-07-28 22:15,Jordan Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7915,2025-07-28 21:21,Cameron Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7914,2025-07-28 20:44,Blake Ward,Python Start Tréning,1,19900,Teljesítve
+7911,2025-07-28 17:34,Logan Rivera,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7910,2025-07-28 17:29,Blake Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7909,2025-07-28 16:01,Riley Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7907,2025-07-28 13:10,Quinn Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7906,2025-07-28 12:55,Jamie Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7905,2025-07-28 12:50,Alex Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7904,2025-07-28 12:49,Skyler Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7903,2025-07-28 12:15,Hunter Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7902,2025-07-28 12:11,Sawyer Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7900,2025-07-28 10:28,Alex Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7899,2025-07-28 10:21,Jamie Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7898,2025-07-28 10:19,Morgan Coleman,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7892,2025-07-27 10:22,Taylor Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7891,2025-07-27 10:13,Reese Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7890,2025-07-27 07:24,Dakota Harrison,Python Start Tréning,1,19900,Teljesítve
+7840,2025-07-26 16:15,Casey Reed,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7838,2025-07-26 14:37,Cameron Price,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7833,2025-07-25 20:45,Rowan Turner,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7830,2025-07-25 13:26,Blake Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7828,2025-07-25 12:39,Jordan Rivera,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7827,2025-07-25 12:37,Dakota Ward,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7826,2025-07-25 10:59,Dakota Sullivan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7825,2025-07-25 10:44,Dakota Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7823,2025-07-25 08:23,Blake Ward,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7822,2025-07-25 08:06,Quinn Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7821,2025-07-24 20:44,Alex Rivera,Python Start Tréning,1,19900,Teljesítve
+7820,2025-07-24 16:43,Logan Parker,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7819,2025-07-24 11:54,Alex Price,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7806,2025-07-23 21:25,Alex Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7801,2025-07-23 15:39,Logan Foster,Python Alapok - Összegző Munkafüzet,2,4980,Teljesítve
+7798,2025-07-23 15:08,Blake Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7797,2025-07-23 15:08,Quinn Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7796,2025-07-23 15:01,Skyler Brooks,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7793,2025-07-23 14:42,Jamie Carter,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7792,2025-07-23 14:30,Jamie Harrison,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7791,2025-07-23 13:43,Dakota Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7790,2025-07-23 12:33,Reese Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7789,2025-07-23 11:54,Avery Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7788,2025-07-23 11:49,Logan Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7787,2025-07-23 11:44,Logan Bennett,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7786,2025-07-23 11:02,Avery Mitchell,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7784,2025-07-23 10:49,Dakota Dawson,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7783,2025-07-23 10:39,Quinn Lee,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7782,2025-07-23 10:35,Dakota Rivera,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7781,2025-07-23 10:26,Sawyer Morgan,Python Alapok - Összegző Munkafüzet,1,2490,Teljesítve
+7778,2025-07-23 06:37,Parker Carter,Python Start Tréning,1,19900,Teljesítve
+7664,2025-07-21 14:35,Riley Ward,Python Start Tréning,1,19900,Teljesítve
+7623,2025-07-21 07:14,Drew Bennett,Python Start Tréning,1,19900,Teljesítve
+7622,2025-07-20 16:13,Drew Harrison,Python Start Tréning,1,19900,Teljesítve
+7570,2025-07-13 13:28,Sawyer Harrison,Python Start Tréning,1,19900,Teljesítve
+7568,2025-07-13 07:27,Parker Sullivan,Python Start Tréning,1,19900,Teljesítve
+7567,2025-07-12 14:21,Logan Lee,Python Start Tréning,1,19900,Teljesítve
+7566,2025-07-12 13:46,Riley Turner,Python Start Tréning,1,19900,Teljesítve
+7545,2025-07-08 19:18,Skyler Foster,Python Start Tréning,1,19900,Teljesítve
+7498,2025-07-05 11:38,Riley Lee,Python Start Tréning,1,19900,Teljesítve
+7495,2025-06-30 21:47,Avery Harrison,Python Start Tréning,1,19900,Teljesítve
+7494,2025-06-30 21:23,Reese Lee,Python Start Tréning,1,19900,Teljesítve
+7492,2025-06-30 10:50,Alex Morgan,Python Start Tréning,1,19900,Teljesítve
+7491,2025-06-29 15:56,Dakota Foster,Python Start Tréning,1,19900,Teljesítve
+7490,2025-06-27 16:04,Avery Knight,Python Start Tréning,1,19900,Teljesítve
+7489,2025-06-26 16:17,Riley Sullivan,Python Start Tréning,1,19900,Teljesítve
+7488,2025-06-25 20:39,Drew Knight,Python Start Tréning,1,19900,Teljesítve
+7487,2025-06-25 13:52,Riley Lee,Python Start Tréning,1,19900,Teljesítve
+7485,2025-06-25 09:57,Drew Knight,Python Start Tréning,1,19900,Teljesítve
+7484,2025-06-24 13:56,Logan Carter,Python Start Tréning,1,19900,Teljesítve
+7483,2025-06-23 12:45,Blake Mitchell,Python Start Tréning,1,19900,Teljesítve
+7482,2025-06-23 11:17,Drew Carter,Python Start Tréning,1,19900,Teljesítve
+7481,2025-06-20 13:10,Drew Reed,Python Start Tréning,1,19900,Teljesítve
+7479,2025-06-19 07:13,Alex Hayes,Python Start Tréning,1,19900,Teljesítve
+7478,2025-06-18 12:23,Hunter Rivera,Python Start Tréning,1,19900,Teljesítve
+7477,2025-06-18 11:24,Casey Ward,Python Start Tréning,1,19900,Teljesítve
+7476,2025-06-18 10:18,Morgan Coleman,Python Start Tréning,1,19900,Teljesítve
+7475,2025-06-18 10:09,Quinn Parker,Python Start Tréning,1,19900,Teljesítve
+7474,2025-06-18 09:51,Jamie Rivera,Python Start Tréning,1,19900,Teljesítve
+7469,2025-06-13 11:09,Reese Walker,Python Start Tréning,1,19900,Teljesítve
+7468,2025-06-13 09:33,Jamie Carter,Python Start Tréning,1,19900,Teljesítve
+7467,2025-06-12 19:13,Dakota Turner,Python Start Tréning,1,19900,Teljesítve
+7466,2025-06-12 10:31,Jamie Coleman,Python Start Tréning,1,19900,Teljesítve
+7465,2025-06-12 06:43,Reese Turner,Python Start Tréning,1,19900,Teljesítve
+7464,2025-06-12 04:19,Jordan Reed,Python Start Tréning,1,19900,Teljesítve
+7460,2025-06-11 21:25,Avery Bennett,Python Start Tréning,1,19900,Teljesítve
+7459,2025-06-11 18:49,Logan Ward,Python Start Tréning,1,19900,Teljesítve
+7458,2025-06-11 16:51,Quinn Parker,Python Start Tréning,1,19900,Teljesítve
+7457,2025-06-11 15:22,Skyler Ward,Python Start Tréning,1,19900,Teljesítve
+7456,2025-06-11 15:17,Morgan Knight,Python Start Tréning,1,19900,Teljesítve
