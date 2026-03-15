@@ -66,33 +66,33 @@ pip install -r requirements.txt
 ### Orders summary
 
 --------------
-Total orders: 535
-Total revenue: 5 527 871 Ft
-Total items sold: 540
-Top product: Python Alapok - Összegző Munkafüzet
-Average order value: 10 332 Ft
+- Total orders: 535
+- Total revenue: 5 527 871 Ft
+- Total items sold: 540
+- Top product: Python Alapok - Összegző Munkafüzet
+- Average order value: 10 332 Ft
 
 ### Email campaign summary
 
 ----------------------
-Campaigns sent: 79
-Emails sent: 221928
-Total opens: 60973
-Total clicks: 3144
-Total unsubscribed: 1178
+- Campaigns sent: 79
+- Emails sent: 221928
+- Total opens: 60973
+- Total clicks: 3144
+- Total unsubscribed: 1178
 
 ### Calculated metrics
 
 ------------------
-Open rate: 27.47%
-Click rate: 1.42%
-Sales performance / click: 17.02%
-Average clicks per order: 5.88%
+- Open rate: 27.47%
+- Click rate: 1.42%
+- Sales performance / click: 17.02%
+- Average clicks per order: 5.88%
 
 ### Best campaign
 
 -------------
-1. Sales Email - Python Start 2025.06.11 - VIP
+- 1. Sales Email - Python Start 2025.06.11 - VIP
 - Open rate: 91.51%
 - Click rate: 57.55%
 - Emails sent: 106
@@ -101,22 +101,22 @@ Average clicks per order: 5.88%
 
 -------------------------------------
 
-1. Sales Email - Python Start 2025.06.11 - VIP -> 91.51% open rate
+- 1. Sales Email - Python Start 2025.06.11 - VIP -> 91.51% open rate
 - Copy of Már 83 VIP előjelentkező + Video -> 82.80% open rate
 - VIP értesítés 2025-06-05 -> 78.30% open rate
-2. Sales Email - Python Start 2025.06.13 - VIP -> 73.74% open rate
+- 2. Sales Email - Python Start 2025.06.13 - VIP -> 73.74% open rate
 - Python Start Videovisszajelzés kérése - 2025.12.01. -> 72.92% open rate
 
 ### Top performing campaigns by click rate
 
 --------------------------------------
 
-1. Sales Email - Python Start 2025.06.11 - VIP -> 57.55% click rate
+- 1. Sales Email - Python Start 2025.06.11 - VIP -> 57.55% click rate
 
-7. Sales Email - Python Start 2025.06.25 - VIP -> 23.60% click rate
+- 7. Sales Email - Python Start 2025.06.25 - VIP -> 23.60% click rate
 - Copy of Már 83 VIP előjelentkező + Video -> 21.51% click rate
 - XMAS-2025-12-24 kampány - PYTHON START- REGGEL - Email #1 -> 16.82% click rate
-4. Sales Email - Python Start 2025.06.18 - VIP -> 16.49% click rate
+- 4. Sales Email - Python Start 2025.06.18 - VIP -> 16.49% click rate
 
 
 
